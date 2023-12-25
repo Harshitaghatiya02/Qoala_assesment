@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "qoala-assesment",
+  "private_key_id": "9b3d79421139d48d6b94c6e9063e8daf1b108ac6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsz7qVX+oJmfCe\niZ8HkuGZDZl/d5LxyTmSZGikLmBdK3RJVAB42cPFBPSmBDI574qeeYa2duXYXojc\nIFbW+7Fr/3HavLtR72sS+31OGbmC0FhNUYELXyL0fS89Z+bhgJCTG+HBqAWrHr6A\nwZXnPgxyiG7R1Iqjw3UT8h08zPhp1l+HBq5/T/rnTa79vpJIOfk7W2ovw1KNf1GZ\naqTBhdkh1fBm3VvXAoAIbGq/QlsZUPohMo5n21ON27W7OIL/arWRY60FyQXrczz3\nFzrY7KQy1SFfl1xbf02gAfOwPEmGw17CjT7lReJWm5s6VglgdJZWSVNSrtXaGvTd\nWpooaozDAgMBAAECggEASHWbhxmeAOOezGLpHxxb4riclaF2KFKXBMZ8R+c4OajI\nTBzgS8wHdbtzt47H3poNthA/x49IJbbRzPb0YpVLmfyUaUK8iokIjP+NVWuc6Phi\nJh1YLgP4nKpG3gkMep5VQJGu0ewZYFx2RXemWr0eLAH/8ZScgzkoBLJ+xuks+fcb\nlV5l3Z5YQ0Fs6NwF7IPxC4yClOhsOIGAZ4nZOGS1TsXrahuVyYYrFXjLT90jPBgE\naxd4fA1pGj81r4ElSB9w/we4hXCIXvcNl2JxhOs4Bl+Z6sxXMpmcBxlbH7bLzIyq\nbgSN1vCYb08aqDN5dnYN6MSEBQXebbN0cnLWctufaQKBgQDm2NSqbAIPiWfyZYIn\ndIWQ1+o0arTyEG4v9UF8Jglx64pPGMeWlpKA7DNM7doomvT3h2K8T12dKlB46uUH\nlwv6l2Gx5WuVvhUzx629z6iY2AqBZBYNXDJ/KIOYkOv1gTafz5tBpMRmVkw3eJ2N\napryhp7YIWNQvhAyu27UyVbHGwKBgQC/pBLcZMMHGYVG5KpW1syEYOmTn/pxrWMa\nop3agQ6ZDGPI6qLo0I1ka7thRO+GlSdFn8B2ZdCsyrdRJ0FvKfbpT2ayNoXObEPn\nZFFIFvxxG7KN4xEWcK7BDezjfWNKdwFlln9sB21TXZT3gGU3Saz5sVaaA6lUBwC6\nbdWvAaVjeQKBgBTtMRIl6mXoKeEibJMREA6aVCPeTHrpHGQCkqYjeJW4KXiUIXu4\nOJ2xS9E8eptVuME7p6q0cyMNM/BSMuLmQXK9CGEtD/yqF5fzEP/09C6u3vztysX5\nRqaaUJui/5Do3r/L/SINQrSYPB6HM5kfQd6cb4feNveZ0zQWI6zsd45jAoGAcXOi\nrtMAGl3jZtrMdOho3x24aerViyLIfuYyaT7p83VARZuSoh2E9yRIJAd5fcUjILa4\na99OsFy6NdL1i+feArU86NgaUuAJOx1KeVESVau+Av2gChbffe7OhMagV18odomo\nGb4z3JyUKgna4eY9/vwbdsYgIlya88M+M4LX9JECgYEAw7KfnpMIJumnqPBpwHpS\nsE44bbG878H/nXSljZZCziqkX5UwY5aq2oBwaVdFWuz8uxRsVJLmq+ynYO47YcN6\nFsJK4JjTSV7VbDDTOKXuT8sncsO4FBo7vJwHqCvLmhLf6MOu5y3+xa/iW4BTP4c6\n4qytx0sr9Ax4OWExPQ+pawk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-ocr@qoala-assesment.iam.gserviceaccount.com",
+  "client_id": "103336349925457941522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-ocr%40qoala-assesment.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
